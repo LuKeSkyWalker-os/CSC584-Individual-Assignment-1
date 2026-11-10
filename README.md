@@ -66,6 +66,7 @@ The application demonstrates the integration of HTML, Java Servlet, JSP, and CSS
 ## Project Files
 
 | File | Description |
+|---|---|
 | `index.html` | Personal profile input form |
 | `ProfileServlet.java` | Handles HTTP POST requests and form processing |
 | `profile.jsp` | Displays submitted personal information |
